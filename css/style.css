@@ -52,6 +52,10 @@ p {
     line-height: 1.5;
 }
 
+p a {
+    color: rgb(123,187,216);
+}
+
 h2 {
     color: rgb(123,187,216);
 }
